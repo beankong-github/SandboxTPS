@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CE18E63F-4AC0-BAFA-4FDC-A38FFEDA1ADE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SandboxTPS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
